@@ -102,3 +102,13 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+
+.textArea {
+    display: block;
+    width: 100%;
+  }
+
+.foot {
+    color: #828282;
+    margin: 30px;
+}
